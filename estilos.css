@@ -1,0 +1,61 @@
+body{
+	background-color: #6E6E6E;
+	font-family: 'Montserrat', sans-serif;
+    background-image: url("fondoo.jpg");
+}
+
+.div-rigth{
+	margin-top: 50px !important;
+}
+
+.div-left{
+	margin-top: 0px !important;
+}
+
+.crop{
+	float:left;
+	overflow:hidden; /* IMPORTANTE */
+}
+
+.crop .image-profile{
+	height: 400px;
+	width: 60%;
+	border-radius: 50%;
+	margin-left: 5%;
+}
+
+.div-right{
+	overflow: hidden;
+	padding: 30px;
+}
+.titles{
+	text-align: center;
+}
+
+table {
+	margin-top: 5%;
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    margin-bottom: 5%;
+}
+
+td, th {
+    border: 1px solid #3364FF;
+    text-align: center;
+    padding: 8px;
+}
+
+th {
+    background-color: #7293FD;
+    font-weight: bold;
+}
+
+.div-rigth a{
+	font-size: 1.5em;
+}
+
+.title-photo{
+	text-align: center; 
+	margin-bottom: 10%;
+}
